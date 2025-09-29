@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bianca Wisemayr"
+title: "Bianca Wiesmayr"
 author_profile: true
 redirect_from: 
   - /about/
