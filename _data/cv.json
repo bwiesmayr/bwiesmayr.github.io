@@ -1,67 +1,77 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Bianca Wiesmayr",
+    "email": "bianca.wiesmayr@jku.at",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://bwiesmayr.github.io",
+    "summary": "Bianca Wiesmayr is a postdoctoral researcher at the LIT Cyber-Physical Systems Lab at Johannes Kepler University Linz, where she is responsible for the research area in model-driven control software engineering. She has completed her doctorate in technical sciences in 2023 (subject computer science) at the same university. She researches model-driven methods for developing automation systems. Her dissertation investigated the use of behavior models for the implementation and maintenance of control software in the domain-specific modeling language defined in IEC 61499. In addition to her research, she is an active software developer and project team member for the open-source development environment Eclipse 4diac, which provides an infrastructure for engineering Industry 4.0 and IIoT systems and is used in industry and academia.
+",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "postalCode": "4040",
+      "city": "Linz",
+      "countryCode": "AT",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=cIHZAdwAAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0002-9512-5249"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "bwiesmayr",
+        "url": "https://github.com/bwiesmayr"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Johannes Kepler University Linz, Austria",
+      "area": "Dr. techn.",
+      "studyType": "Doctoral program",
+      "startDate": "2019",
+      "endDate": "2023",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Johannes Kepler University Linz, Austria",
+      "area": "Law and business aspects in technics",
+      "studyType": "Master's program (MLBT)",
+      "startDate": "2017",
+      "endDate": "2013",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Johannes Kepler University Linz, Austria",
+      "area": "Electronics and information technology",
+      "studyType": "Master's program (Dipl.-Ing.)",
+      "startDate": "2016",
       "endDate": "2018",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Johannes Kepler University Linz, Austria",
+      "area": "Electronics and information technology",
+      "studyType": "Bachelor program (BSc)",
+      "startDate": "2010",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [German (native), English (fluent), Finnish (intermediate), French (basic)],
   "interests": [],
   "references": [],
   "publications": [
