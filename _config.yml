@@ -83,10 +83,12 @@ author:
 publication_category:
  # books:
  #   title: 'Books'
-  mde4cpps: 
-    title: 'Model-driven engineering for industrial automation'
   usability:
     title: 'Usability of modeling tools'
+  ai4control:
+    title: 'AI-assisted engineering of control software'
+  mde4cpps: 
+    title: 'Model-driven engineering for industrial automation'
   iec61499:
     title: 'Control software engineering with IEC 61499'    
 
